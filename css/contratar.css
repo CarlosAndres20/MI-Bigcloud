@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+ul{
+	list-style: none;
+}
+.separar{
+	float: left;
+}
+.esperar{
+	width: 95%;
+	max-width: 95%;
+	margin: 35px auto;
+}
+body{
+	background: lightgray;
+}
+.color{
+	width: 95%;
+	max-width: 95%;
+	margin: 35px auto;
+	background: white;
+	margin: 0px auto;
+}
+.white{
+	background: white;
+}
+legend{
+	color: red;
+	padding-left: 10px;	 
+}
+fieldset{
+	margin: 0px 0px 0px 40px;
+	border-color:  tomato;	
+}
+#uno{
+	
+}
+input{
+	padding: 8px;
+}
+li{
+	margin: 3px 0px 0px 40px;
+}
+.coffe{
+	color: #923428;
+	margin: 3px 0px 0px 10px;
+}
+h1{
+font-size: 40px;
+}
+.boton{
+	margin: 4px 0pc 0px 40px;
+}
+.finish{
+	background: #D60046;
+	padding: 10px;
+	color: white;
+	clear: both;
+	margin: 4px 0pc 0px 40px;
+}
+.litle{
+	font-size: 20px;
+}

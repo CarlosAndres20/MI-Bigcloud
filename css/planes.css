@@ -1,0 +1,128 @@
+*{
+	margin:  0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+ body{
+	background: lightgray;
+} 
+.color{
+	width: 95%;
+	max-width: 95%;
+	margin: 35px auto;
+	background: white;
+	margin: 0px auto;
+}
+.white{
+	background: white;
+}
+span{
+  color: red;
+}
+.esperar{
+	width: 95%;
+	max-width: 95%;
+	margin: 35px auto;
+	background: lightgray;
+}
+.bordes{
+	border-top: 1px solid black;
+}
+.black{
+	background: gray;
+	color: white;
+	padding-right:  40px;
+	text-align: 
+}
+.uno{
+	padding: 5px;
+	float: left;
+	background: gray;
+}
+.planes{
+	float: left;
+}
+.letra{
+	text-orientation: bottom;
+	color: white;
+}
+.numero{
+	border-right: 1px solid white;
+	color: #3AE719;
+	font-size:  80px ;
+	float: left;
+	background: gray;
+	margin: 10px 0px 10px 0px;
+}
+.numero2{
+	border-right: 1px solid white;
+	color: #F64E14;
+	font-size:  80px;
+	float: left;
+	background: gray;
+	margin: 10px 0px 10px 0px;
+}
+.espacio{
+	float: left;
+	border: 1px solid black;
+	background: black;
+	padding: 10px;
+	
+}
+.boton{
+	background: #E9004C;
+	text-decoration: none;
+	padding: 10px;
+	color: white;
+}
+.precios{
+	color: black;
+	font-size: 30px;
+}
+.numero3{
+	border-right: 1px solid white;
+	color: #33ED98;
+	font-size:  80px;
+	float: left;
+	background: gray;
+	margin: 10px 0px 10px 0px;
+}
+.red{
+	color: red;
+}	
+ .botton td{
+	border-bottom: 1px solid gray;
+	margin: 3px 3px 3px 50px;
+	padding: 50px;
+}
+footer{
+	background: black;
+	color: white;
+	border-top: 3px solid#D60046;
+	padding: 10px;
+}
+.final{
+	width: 95%;
+	max-width: 95%;
+	margin: 35px auto;
+}
+.posicionamiento{
+	position: relative;
+	margin: 3px 3px 3px 34%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
