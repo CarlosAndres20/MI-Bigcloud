@@ -1,0 +1,146 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.header{
+	margin: 35px auto;
+	width: 95%;
+	max-width: 80%;
+}
+header{
+	background: white;
+	padding: 1px;
+}
+body{
+	background: #E8E8E8;
+}
+h1{
+	font-size: 50px;
+}
+.header h1 a{
+	color: #767676;
+	font-size: 20px;
+}
+fieldset{
+	border-color: #FA1455;
+}
+legend{
+	color: #FA1455;
+	margin: 0px;
+}
+li{
+	list-style: none;
+}
+fieldset{
+	margin: 15px 0px 0px 80px;
+	padding: 30px;
+}
+.separar {
+	float: left;
+}
+.Soption{
+	margin: 0px 0px 10px 80px;
+}
+.footer{
+	background: black;
+	color: white;
+	padding: 10px;
+	border-top: 8px solid #FA1455;
+	position: ;
+}
+.Boton{
+	margin: 0px 0px 10px 80px;
+	background: #FA1455;
+	padding: 4px;
+	color: white;
+}
+footer .header a{
+	color: #919191;
+}
+.field{
+	color: #914D42
+}
+small{
+	color: gray;
+	font-family: "arial"
+}
+.lineas{
+	background: #E8E8E8;
+	padding: 10%;
+}
+@media only screen and (max-width: 1000px){
+	body{
+		background-image: url('../img/fondo.jpg');
+		background-repeat: no-repeat;
+		background-size: cover; 
+	}
+}
+.fixed .main li{
+	display: block;	
+}
+a{
+	display: block;
+	
+}
+li{
+	font-size: 20px;
+	margin: 5px;
+}
+.face{
+	background-color: #3642D1;
+	color: white;
+	padding: 20px;
+	border-radius: 50%;
+	border:  1px solid white;
+}
+.bird{
+	background-color: deepskyblue;
+	color: white;
+	padding: 20px;
+	border-radius: 80%;
+	border:  1px solid white;
+}
+.g{
+	background-color:crimson;
+	color: white;
+	padding: 18px;
+	border-radius: 80%;
+	border:  1px solid white;
+}
+.pinter{
+	background-color: #CE0023;
+	color: white;
+	padding: 20px;
+	border-radius: 80%;
+	border:  1px solid white;
+}
+.messaje{
+	background-color: mediumseagreen;
+	color: white;
+	padding: 20px;
+	border-radius: 80%;
+	border: 1px solid white;
+}
+.fixed .main li,a{
+	display: block;
+	margin-right: 
+}
+.fixed{
+	position: fixed;
+	left: 0;
+	top: 300px;
+	z-index: 2000;
+}
+.main a:hover{
+-moz-transform: scale(1.1) rotate(720deg);
+-webkit-transform: scale(1.1) rotate(720deg);
+-o-transform: scale(1.1) rotate(720deg);
+-ms-transform: scale(1.1) rotate(720deg);
+transform: scale(1.1) rotate(720deg);
+-webkit-transition: all 1000ms ease-in-out;
+-moz-transition: all 1000ms ease-in-out;
+-ms-transition: all 1000ms ease-in-out;
+-o-transition: all 1000ms ease-in-out;
+transition: all 1000ms ease-in-out;
+}
